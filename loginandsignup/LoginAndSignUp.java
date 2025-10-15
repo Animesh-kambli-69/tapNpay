@@ -1,6 +1,4 @@
-
-package loginandsignup;
-
+﻿package loginandsignup;
 public class LoginAndSignUp {
 
 
